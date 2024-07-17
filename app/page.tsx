@@ -133,7 +133,7 @@ export default function Home() {
           <h2 className="poppins-semibold text-gray-400 text-6xl pb-1">
             Myself
           </h2>
-          <h2 className="poppins-semibold text-gray-300 text-6xl pb-4 lg:text-7xl md:text-7xl">
+          <h2 className="poppins-semibold text-gray-300 text-5xl pb-4 lg:text-7xl md:text-7xl">
             Indrajith S Nair 
           </h2>
           <h3 className="poppins-semibold text-gray-400 text-4xl p-2">
