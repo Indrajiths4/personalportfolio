@@ -130,7 +130,7 @@ export default function Home() {
         {/* <SparkleSection title="Welcome to my portfolio" /> */}
         <div id="about" className="h-screen flex flex-col lg:flex-row md:flex-row justify-around items-center md:flex text-center">
           <div className="flex flex-col ">
-          <h2 className="poppins-semibold text-gray-400 text-6xl pb-1">
+          <h2 className="poppins-semibold text-gray-400 text-6xl pb-5">
             Myself
           </h2>
           <h2 className="poppins-semibold text-gray-300 text-5xl pb-4 lg:text-7xl md:text-7xl">
@@ -146,8 +146,18 @@ export default function Home() {
             Web Designer 
           </h3>
           </div>
-          <div className="bg-white rounded-full overflow-hidden w-[17rem] h-[17rem]">
+          <div>
+            <div className="overflow-hidden rounded-full w-[17rem] h-[17rem]">
             <Image src={passport} alt={"Passport size photo"} className=""/>
+            </div>
+            <div className="flex justify-center mt-4 space-x-4">
+              <a href="https://github.com/Indrajiths4" target="_blank" rel="noopener noreferrer" className="bg-gray-800 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">
+                GitHub
+              </a>
+              <a href="https://www.linkedin.com/in/indrajith-s-nair-05710a265/" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded">
+                LinkedIn
+              </a>
+            </div>
           </div>
         </div> 
 
