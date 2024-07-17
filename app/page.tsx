@@ -167,7 +167,7 @@ export default function Home() {
           <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-black dark:bg-zinc-900 w-[300px] h-[500px]">
         <Image
           src={nextjs}
-          alt="jordans"
+          alt="nextjs"
           height="400"
           width="400"
           className="object-contain"
@@ -177,16 +177,14 @@ export default function Home() {
         </p>
  
         <p className="text-sm text-neutral-600 dark:text-neutral-400 text-justify">
-          The Air Jordan 4 Retro Reimagined Bred will release on Saturday,
-          February 17, 2024. Your best opportunity to get these right now is by
-          entering raffles and waiting for the official releases.
+          Nextjs is the latest tech stack i learnt. This portfolio and below given Employee task project is made using nextjs.
         </p>
         
       </BackgroundGradient>
       <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-black dark:bg-zinc-900 w-[300px] h-[500px]">
         <Image
           src={reactnative}
-          alt="jordans"
+          alt="reactnative"
           height="400"
           width="400"
           className="object-contain"
@@ -196,16 +194,15 @@ export default function Home() {
         </p>
  
         <p className="text-sm text-neutral-600 dark:text-neutral-400 text-justify">
-          The Air Jordan 4 Retro Reimagined Bred will release on Saturday,
-          February 17, 2024. Your best opportunity to get these right now is by
-          entering raffles and waiting for the official releases.
+          I learnt React native inorder to develop a mobile application for our College mini project.
+          The project named "Curently" is given in the projects section.
         </p>
         
       </BackgroundGradient>
       <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-black dark:bg-zinc-900 w-[300px] h-[500px]">
         <Image
           src={c}
-          alt="jordans"
+          alt="C"
           height="400"
           width="400"
           className="object-contain"
@@ -215,9 +212,7 @@ export default function Home() {
         </p>
  
         <p className="text-sm text-neutral-600 dark:text-neutral-400 text-justify">
-          The Air Jordan 4 Retro Reimagined Bred will release on Saturday,
-          February 17, 2024. Your best opportunity to get these right now is by
-          entering raffles and waiting for the official releases.
+          This was the first programming language i learnt and i am more expert in C than any other language.
         </p>
         
       </BackgroundGradient>
@@ -226,7 +221,7 @@ export default function Home() {
           <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-black dark:bg-zinc-900 w-[300px] h-[500px]">
         <Image
           src={java}
-          alt="jordans"
+          alt="java"
           height="400"
           width="400"
           className="object-contain"
@@ -236,16 +231,14 @@ export default function Home() {
         </p>
  
         <p className="text-sm text-neutral-600 dark:text-neutral-400 text-justify">
-          The Air Jordan 4 Retro Reimagined Bred will release on Saturday,
-          February 17, 2024. Your best opportunity to get these right now is by
-          entering raffles and waiting for the official releases.
+          The was the programming language i learnt from college and was first introduced to GUI with java.
         </p>
         
       </BackgroundGradient>
       <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-black dark:bg-zinc-900 w-[300px] h-[500px]">
         <Image
           src={python}
-          alt="jordans"
+          alt="python"
           height="400"
           width="400"
           className="object-contain"
@@ -255,16 +248,14 @@ export default function Home() {
         </p>
  
         <p className="text-sm text-neutral-600 dark:text-neutral-400 text-justify">
-          The Air Jordan 4 Retro Reimagined Bred will release on Saturday,
-          February 17, 2024. Your best opportunity to get these right now is by
-          entering raffles and waiting for the official releases.
+          Python was the programming language i last learnt and to shift from C to python made familiarising python much easier.
         </p>
         
       </BackgroundGradient>
       <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-black dark:bg-zinc-900 w-[300px] h-[500px]">
         <Image
           src={cplus}
-          alt="jordans"
+          alt="cplusplus"
           height="400"
           width="400"
           className="object-contain"
@@ -274,9 +265,7 @@ export default function Home() {
         </p>
  
         <p className="text-sm text-neutral-600 dark:text-neutral-400 text-justify">
-          The Air Jordan 4 Retro Reimagined Bred will release on Saturday,
-          February 17, 2024. Your best opportunity to get these right now is by
-          entering raffles and waiting for the official releases.
+          C is the first object oriented language language i learnt in high school along with C.
         </p>
         
       </BackgroundGradient>
