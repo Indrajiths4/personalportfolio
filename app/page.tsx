@@ -368,7 +368,7 @@ export default function Home() {
 }
 
 
-export const projects = [
+const projects = [
   {
     title: "Curently",
     description:
