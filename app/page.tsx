@@ -299,7 +299,7 @@ export default function Home() {
       </div>
 
       <div id="contact" className="h-screen flex justify-center items-center bg-black">
-  <div className="w-full max-w-md bg-black rounded-lg shadow-md p-8 border border-white">
+  <div className="w-full max-w-md bg-black rounded-lg shadow-md p-8 border border-white mx-5">
     <h3 className="text-2xl font-semibold text-center mb-6 poppins">Contact me</h3>
     <form id="contactForm" onSubmit={handleSubmit}>
       <div className="mb-4">
